@@ -1,0 +1,17 @@
+{
+  "name": "jayajiwo/phpcomposer",
+  "description": "percobaan upload ke composer",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mirza",
+      "email": "mirzaardani@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {"phpcomposer\\HelloWorld\\": "src/"}
+  },
+  "require": {}
+}
